@@ -3,7 +3,8 @@ Sample Portfolio website with HTML and CSS
 
 ## HTML Code
 ### Create index.html file in /var/www/html directory and copy below code.
-*/
+
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -50,11 +51,13 @@ Sample Portfolio website with HTML and CSS
     </footer>
 </body>
 </html>
-
+```
 
 ## CSS Code 
 
 ### Create style.css file in the same directory whete index.html document has been created.
+
+```
 /* Reset some default styles */
 body, h1, h2, p, ul, li {
     margin: 0;
@@ -120,4 +123,4 @@ footer {
     text-align: center;
     padding: 1rem 0;
 }
-
+```
